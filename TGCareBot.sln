@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.Core", "src\TGCareBot.Core\TGCareBot.Core.csproj", "{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.WebPanel", "src\TGCareBot.WebPanel\TGCareBot.WebPanel.csproj", "{C7DBC317-E752-44CA-9763-09D617DCCF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.Console", "src\TGCareBot.Console\TGCareBot.Console.csproj", "{8B53754E-7E92-4186-B881-97247DDE5788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B53754E-7E92-4186-B881-97247DDE5788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B53754E-7E92-4186-B881-97247DDE5788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B53754E-7E92-4186-B881-97247DDE5788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B53754E-7E92-4186-B881-97247DDE5788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
