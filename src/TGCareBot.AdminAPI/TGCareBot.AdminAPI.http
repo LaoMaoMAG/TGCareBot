@@ -1,0 +1,6 @@
+@TGCareBot.AdminAPI_HostAddress = http://localhost:5069
+
+GET {{TGCareBot.AdminAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

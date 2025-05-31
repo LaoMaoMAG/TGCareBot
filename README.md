@@ -8,18 +8,17 @@
 # 开发环境
 - **编程语言:** C#
 - **框架:** .NET 8
-- **开发工具:** Jetbrains Rider and Visual Studio2022
+- **开发工具:** Jetbrains Rider && Visual Studio
 
 
 # 项目列表
 - **TGCareBot.Core** 【核心类库】核心功能类库（未完成）
 - **TGCareBot.Console** 【控制台】控制台程序（未完成）
 - **TGCareBot.WebPanel** 【WEB面板】WEB 面板程序（未完成）
-- **其他项目暂未完工或开放**
 
 
 # 开源许可
-本项目使用 [MIT](https://github.com/LaoMaoMAG/TGCareBot/LICENSE) 协议进行开源，请遵守开源协议。
+本项目使用 [Apache 2.0](https://github.com/LaoMaoMAG/TGCareBot/LICENSE) 协议进行开源，请遵守开源协议。
 
 
 # 版权

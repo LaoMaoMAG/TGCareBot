@@ -1,10 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.Core", "src\TGCareBot.Core\TGCareBot.Core.csproj", "{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.Example", "src\TGCareBot.Example\TGCareBot.Example.csproj", "{1261B1B9-0404-4C08-97C1-BB662FFBC3A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.WebPanel", "src\TGCareBot.WebPanel\TGCareBot.WebPanel.csproj", "{C7DBC317-E752-44CA-9763-09D617DCCF82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.Test", "src\TGCareBot.Test\TGCareBot.Test.csproj", "{645DD82A-B803-498F-96E3-D74BA46C9766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.Console", "src\TGCareBot.Console\TGCareBot.Console.csproj", "{8B53754E-7E92-4186-B881-97247DDE5788}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.AdminPanel", "src\TGCareBot.AdminPanel\TGCareBot.AdminPanel.csproj", "{8302754C-7E7F-41DC-BBC3-5C7F5B2AC63B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCareBot.AdminAPI", "src\TGCareBot.AdminAPI\TGCareBot.AdminAPI.csproj", "{A4B121AC-D0DF-4A96-AC4E-022B8E7252D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,17 +14,21 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81F0DB2A-3E4E-4D89-A1FF-2E32EC24540B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7DBC317-E752-44CA-9763-09D617DCCF82}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8B53754E-7E92-4186-B881-97247DDE5788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B53754E-7E92-4186-B881-97247DDE5788}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8B53754E-7E92-4186-B881-97247DDE5788}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B53754E-7E92-4186-B881-97247DDE5788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1261B1B9-0404-4C08-97C1-BB662FFBC3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1261B1B9-0404-4C08-97C1-BB662FFBC3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1261B1B9-0404-4C08-97C1-BB662FFBC3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1261B1B9-0404-4C08-97C1-BB662FFBC3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645DD82A-B803-498F-96E3-D74BA46C9766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645DD82A-B803-498F-96E3-D74BA46C9766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645DD82A-B803-498F-96E3-D74BA46C9766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645DD82A-B803-498F-96E3-D74BA46C9766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8302754C-7E7F-41DC-BBC3-5C7F5B2AC63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8302754C-7E7F-41DC-BBC3-5C7F5B2AC63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8302754C-7E7F-41DC-BBC3-5C7F5B2AC63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8302754C-7E7F-41DC-BBC3-5C7F5B2AC63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B121AC-D0DF-4A96-AC4E-022B8E7252D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B121AC-D0DF-4A96-AC4E-022B8E7252D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B121AC-D0DF-4A96-AC4E-022B8E7252D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B121AC-D0DF-4A96-AC4E-022B8E7252D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
