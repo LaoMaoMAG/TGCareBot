@@ -49,7 +49,7 @@
 
 ## 📜 开源许可
 
-本项目采用 [Apache 2.0](https://github.com/LaoMaoMAG/TGCareBot/LICENSE) 协议开源。请确保在使用时遵守相关条款。
+本项目采用 [Apache 2.0](https://github.com/LaoMaoMAG/TGCareBot/blob/main/LICENSE) 协议开源。请确保在使用时遵守相关条款。
 
 ---
 
